@@ -1,0 +1,72 @@
+<odoo>
+    <data>
+
+          <record id="loan0" model="loan_prediction.loan_prediction">
+            <field name="loan_id"> 0</field>	            
+            <field name="loan_officer"> 001</field>	
+            <field name="age"> 39</field>	
+            <field name="ed"> 1</field>
+            <field name="employ"> 0</field>
+            <field name="address"> 8</field>
+            <field name="income"> 39</field>
+            <field name="debtinc"> 7.9</field>
+            <field name="creddebt"> 1.066026</field>
+            <field name="othdebt"> 2.014974</field>
+          </record>
+
+          <record id="loan1" model="loan_prediction.loan_prediction">
+            <field name="loan_id"> 1</field>	            
+            <field name="loan_officer"> 002</field>	
+            <field name="age"> 39</field>	
+            <field name="ed"> 1</field>
+            <field name="employ"> 0</field>
+            <field name="address"> 8</field>
+            <field name="income"> 39</field>
+            <field name="debtinc"> 7.9</field>
+            <field name="creddebt"> 1.066026</field>
+            <field name="othdebt"> 2.014974</field>
+          </record>
+
+          <record id="loan2" model="loan_prediction.loan_prediction">
+            <field name="loan_id">2</field>	            
+            <field name="loan_officer"> 003</field>	
+            <field name="age"> 39</field>	
+            <field name="ed"> 1</field>
+            <field name="employ"> 0</field>
+            <field name="address"> 8</field>
+            <field name="income"> 39</field>
+            <field name="debtinc"> 7.9</field>
+            <field name="creddebt"> 1.066026</field>
+            <field name="othdebt"> 2.014974</field>
+          </record>
+
+          <record id="loan3" model="loan_prediction.loan_prediction">
+            <field name="loan_id"> 3</field>	            
+            <field name="loan_officer">003</field>	
+            <field name="loan_id"> 39</field>	            
+            <field name="loan_officer"> 39</field>	
+            <field name="age"> 39</field>	
+            <field name="ed"> 1</field>
+            <field name="employ"> 0</field>
+            <field name="address"> 8</field>
+            <field name="income"> 39</field>
+            <field name="debtinc"> 7.9</field>
+            <field name="creddebt"> 1.066026</field>
+            <field name="othdebt"> 2.014974</field>
+          </record>
+
+          <record id="loan4" model="loan_prediction.loan_prediction">
+            <field name="loan_id"> 4</field>	            
+            <field name="loan_officer"> 004</field>	
+            <field name="age"> 39</field>	
+            <field name="ed"> 1</field>
+            <field name="employ"> 0</field>
+            <field name="address"> 8</field>
+            <field name="income"> 39</field>
+            <field name="debtinc"> 7.9</field>
+            <field name="creddebt"> 1.066026</field>
+            <field name="othdebt"> 2.014974</field>
+          </record>
+
+    </data>
+</odoo>

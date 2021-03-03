@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<odoo>
+<data>
+
+<record id="student_menu_action" model="ir.actions.act_window">
+<field name="name">Loans</field>
+<field name="res_model">loan.loan</field>
+<field name="view_mode">tree,form</field>
+<field name="domain">[]</field>
+<field name="help" type="html">
+<p class="oe_view_nocontent_create">Create The First Loan
+</p>
+</field>
+</record> 
+
+<menuitem id="loan_menu" name="Loans"/>
+<menuitem id="loan_student_menu" parent="loan_menu" name="Student" action="student_menu_action"/>
+
+</data>
+</odoo>

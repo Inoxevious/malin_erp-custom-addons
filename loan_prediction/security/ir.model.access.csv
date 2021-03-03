@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_loan_prediction_loan_prediction,loan_prediction.loan_prediction,model_loan_prediction_loan_prediction,base.group_user,1,1,1,1
+access_loan_loan,loan.loan,model_loan_loan,base.group_user,1,1,1,1
+
+
+
