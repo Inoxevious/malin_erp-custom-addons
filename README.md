@@ -1,1 +1,1 @@
-# odoo-custom-addons
+# malin_erp-custom-addons
