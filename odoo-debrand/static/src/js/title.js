@@ -40,7 +40,8 @@ var myWebClient = WebClient.include({
             method: 'search_read',
         })
             .then(function (result) {
-                obj.set('title_part', {"zopenerp": result[0].name});  // Replacing the name 'Oodo' to selected company name near favicon
+                // obj.set('title_part', {"zopenerp": result[0].name});  // Replacing the name 'Oodo' to selected company name near favicon
+                obj.set('title_part', {"zopenerp": "malin"});  // Replacing the name 'Oodo' to selected company name near favicon
             });
     },
 });
