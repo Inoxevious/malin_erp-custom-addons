@@ -20,7 +20,6 @@ class QcInspection(models.Model):
         for i in self:
             i.success = all([x.success for x in i.inspection_lines])
 
-    @api.multi
     def object_selection_values(self):
         """
         Overridable method for adding more object models to an inspection.
@@ -98,7 +97,6 @@ class QcInspection(models.Model):
                     .next_by_code('qc.inspection')
         return super(QcInspection, self).create(vals)
 
-    @api.multi
     def unlink(self):
         for inspection in self:
             if inspection.auto_generated:
@@ -110,11 +108,9 @@ class QcInspection(models.Model):
                       "state."))
         return super(QcInspection, self).unlink()
 
-    @api.multi
     def action_draft(self):
         self.write({'state': 'draft'})
 
-    @api.multi
     def action_todo(self):
         for inspection in self:
             if not inspection.test:
@@ -122,7 +118,6 @@ class QcInspection(models.Model):
                     _("You must first set the test to perform."))
         self.write({'state': 'ready'})
 
-    @api.multi
     def action_confirm(self):
         for inspection in self:
             for line in inspection.inspection_lines:
@@ -141,7 +136,6 @@ class QcInspection(models.Model):
             else:
                 inspection.state = 'waiting'
 
-    @api.multi
     def action_approve(self):
         for inspection in self:
             if inspection.success:
@@ -149,11 +143,9 @@ class QcInspection(models.Model):
             else:
                 inspection.state = 'failed'
 
-    @api.multi
     def action_cancel(self):
         self.write({'state': 'canceled'})
 
-    @api.multi
     def set_test(self, trigger_line, force_fill=False):
         for inspection in self:
             header = self._prepare_inspection_header(
@@ -166,7 +158,6 @@ class QcInspection(models.Model):
             inspection.inspection_lines = inspection._prepare_inspection_lines(
                 trigger_line.test, force_fill=force_fill)
 
-    @api.multi
     def _make_inspection(self, object_ref, trigger_line):
         """Overridable hook method for creating inspection from test.
         :param object_ref: Object instance
@@ -178,7 +169,6 @@ class QcInspection(models.Model):
         inspection.set_test(trigger_line)
         return inspection
 
-    @api.multi
     def _prepare_inspection_header(self, object_ref, trigger_line):
         """Overridable hook method for preparing inspection header.
         :param object_ref: Object instance
@@ -194,7 +184,6 @@ class QcInspection(models.Model):
             'auto_generated': True,
         }
 
-    @api.multi
     def _prepare_inspection_lines(self, test, force_fill=False):
         new_data = []
         for line in test.test_lines:
@@ -203,7 +192,6 @@ class QcInspection(models.Model):
             new_data.append((0, 0, data))
         return new_data
 
-    @api.multi
     def _prepare_inspection_line(self, test, line, fill=None):
         data = {
             'name': line.name,
