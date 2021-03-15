@@ -16,7 +16,7 @@ class QcTest(models.Model):
     _name = 'qc.test'
     _description = 'Quality control test'
 
-    @api.multi
+
     def object_selection_values(self):
         return set()
 
