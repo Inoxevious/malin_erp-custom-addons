@@ -66,7 +66,7 @@ class AccountingReport(models.TransientModel):
             result['strict_range'] = True
         return result
 
-    # @api.multi
+    # 
     def check_report(self):
         res = super(AccountingReport, self).check_report()
         data = {}
