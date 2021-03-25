@@ -1,4 +1,4 @@
-odoo.define('AccountingDashboard.AccountingDashboard', function (require) {
+colossal.define('AccountingDashboard.AccountingDashboard', function (require) {
     'use strict';
     var AbstractAction = require('web.AbstractAction');
     var ajax = require('web.ajax');

@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
 import copy
-from odoo import api, fields, models, _
-from odoo.exceptions import UserError
-from odoo.osv import expression
-from odoo.tools.misc import formatLang, format_date, parse_date
+from colossal import api, fields, models, _
+from colossal.exceptions import UserError
+from colossal.osv import expression
+from colossal.tools.misc import formatLang, format_date, parse_date
 
 
 class AccountReconciliation(models.AbstractModel):

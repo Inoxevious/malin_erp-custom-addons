@@ -20,7 +20,7 @@
 #
 #############################################################################
 
-from odoo import models, api
+from colossal import models, api
 
 
 class AccountJournal(models.Model):

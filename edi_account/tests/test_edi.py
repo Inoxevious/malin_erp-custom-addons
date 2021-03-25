@@ -3,11 +3,11 @@
 
 import logging
 
-from odoo import fields
+from colossal import fields
 
-from odoo.addons.account.tests.account_test_savepoint import AccountTestInvoicingCommon
-from odoo.addons.component.core import Component
-from odoo.addons.component.tests.common import SavepointComponentRegistryCase
+from colossal.addons.account.tests.account_test_savepoint import AccountTestInvoicingCommon
+from colossal.addons.component.core import Component
+from colossal.addons.component.tests.common import SavepointComponentRegistryCase
 
 _logger = logging.getLogger(__name__)
 

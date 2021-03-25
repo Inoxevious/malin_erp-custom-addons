@@ -1,4 +1,4 @@
-odoo.define("theme_orchid.tour.orchid", function (require) {
+colossal.define("theme_orchid.tour.orchid", function (require) {
 "use strict";
 
 const core = require("web.core");

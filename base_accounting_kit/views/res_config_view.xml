@@ -1,4 +1,4 @@
-<odoo>
+<colossal>
     <data>
         <record id="es_config_settings_view_form_base_accounting_kit" model="ir.ui.view">
             <field name="name">res.config.view.inherited.base.accounting.kit</field>
@@ -22,4 +22,4 @@
             </field>
         </record>
     </data>
-</odoo>
+</colossal>

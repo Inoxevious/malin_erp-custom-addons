@@ -1,4 +1,4 @@
-<odoo>
+<colossal>
   <data>
     <!-- explicit list view definition -->
 
@@ -56,4 +56,4 @@ y
               action="loan_prediction.action_server"/>
 
   </data>
-</odoo>
+</colossal>

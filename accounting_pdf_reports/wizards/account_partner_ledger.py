@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from odoo import fields, models, _
+from colossal import fields, models, _
 
 
 class AccountPartnerLedger(models.TransientModel):

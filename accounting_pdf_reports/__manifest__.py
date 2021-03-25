@@ -1,18 +1,18 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Colossal. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Odoo 14 Accounting PDF Reports',
+    'name': 'Colossal 14 Accounting PDF Reports',
     'version': '14.0.2.2.0',
     'category': 'Invoicing Management',
-    'summary': 'Accounting Reports For Odoo 14',
+    'summary': 'Accounting Reports For Colossal 14',
     'sequence': '10',
-    'author': 'Odoo Mates, Odoo SA',
+    'author': 'Colossal Mates, Colossal SA',
     'license': 'LGPL-3',
-    'company': 'Odoo Mates',
-    'maintainer': 'Odoo Mates',
-    'support': 'odoomates@gmail.com',
-    'website': 'https://www.odoomates.tech',
+    'company': 'Colossal Mates',
+    'maintainer': 'Colossal Mates',
+    'support': 'colossalmates@gmail.com',
+    'website': 'https://www.colossalmates.tech',
     'depends': ['account'],
     'live_test_url': 'https://www.youtube.com/watch?v=Qu6R3yNKR60',
     'demo': [],

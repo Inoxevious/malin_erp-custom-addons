@@ -1,4 +1,4 @@
-odoo.define('website_animate.o_animate_frontend', function (require) {
+colossal.define('website_animate.o_animate_frontend', function (require) {
 'use strict';
 
 var publicWidget = require('web.public.widget');

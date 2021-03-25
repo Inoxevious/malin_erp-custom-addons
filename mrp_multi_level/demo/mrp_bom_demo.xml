@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<odoo noupdate="1">
+<colossal noupdate="1">
     <!-- FP-1 -->
     <record id="mrp_bom_fp_1" model="mrp.bom">
         <field name="product_tmpl_id" ref="product_product_fp_1_product_template" />
@@ -73,4 +73,4 @@
         <field name="sequence">5</field>
         <field name="bom_id" ref="mrp_bom_sf_2" />
     </record>
-</odoo>
+</colossal>

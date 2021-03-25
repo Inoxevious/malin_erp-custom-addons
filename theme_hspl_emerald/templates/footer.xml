@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <template id="theme_footer" inherit_id="website.footer_custom">
         <xpath expr="//div[@id='footer']" position="replace">
             <div id="footer" class="oe_structure oe_structure_solo">
@@ -149,8 +149,8 @@
                         <div class="col-lg-12">
                             <!-- Copyright -->
                             <p class="footer-copy ">
-                                Powered by <a href="https://apps.odoo.com/apps/themes/14.0/theme_hspl_emerald/"
-                                              title="Heliconia">Emerald Odoo Theme
+                                Powered by <a href="https://apps.colossal.com/apps/themes/14.0/theme_hspl_emerald/"
+                                              title="Heliconia">Emerald Colossal Theme
                             </a> from <a href="https://www.heliconia.io" title="Heliconia">Heliconia</a>.
                             </p>
                         </div>
@@ -166,4 +166,4 @@
     <template id="theme_frontend_footer" inherit_id="web.frontend_layout">
         <xpath expr="//div[hasclass('o_footer_copyright')]" position="replace"></xpath>
     </template>
-</odoo>
+</colossal>

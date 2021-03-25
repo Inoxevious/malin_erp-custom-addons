@@ -7,7 +7,7 @@
     "version": "13.0.1.0.0",
     "license": "LGPL-3",
     "website": "https://github.com/manufacture",
-    "author": "ForgeFlow, Odoo Community Association (OCA)",
+    "author": "ForgeFlow, Colossal Community Association (OCA)",
     "category": "Manufacturing",
     "depends": ["mrp", "stock_warehouse_calendar"],
     "installable": True,

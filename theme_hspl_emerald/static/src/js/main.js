@@ -1,4 +1,4 @@
-odoo.define('theme_hspl_emerald.theme_script', function(require) {
+colossal.define('theme_hspl_emerald.theme_script', function(require) {
   'use strict';
 
   var sAnimations = require('website.content.snippets.animation');

@@ -1,4 +1,4 @@
-odoo.define('base_accounting_kit.ReconciliationClientAction', function (require) {
+colossal.define('base_accounting_kit.ReconciliationClientAction', function (require) {
 "use strict";
 
 var AbstractAction = require('web.AbstractAction');
@@ -321,7 +321,7 @@ var StatementAction = AbstractAction.extend({
      * 'inactive' mode
      *
      * @private
-     * @param {OdooEvent} event
+     * @param {ColossalEvent} event
      */
     _onAction: function (event) {
         var self = this;
@@ -348,7 +348,7 @@ var StatementAction = AbstractAction.extend({
 
     /**
      * @private
-     * @param {OdooEvent} ev
+     * @param {ColossalEvent} ev
      */
     _onSearch: function (ev) {
         var self = this;
@@ -375,7 +375,7 @@ var StatementAction = AbstractAction.extend({
      * call 'closeStatement' model method
      *
      * @private
-     * @param {OdooEvent} event
+     * @param {ColossalEvent} event
      */
     _onCloseStatement: function (event) {
         var self = this;
@@ -394,7 +394,7 @@ var StatementAction = AbstractAction.extend({
     /**
      * Load more statement and render them
      *
-     * @param {OdooEvent} event
+     * @param {ColossalEvent} event
      */
     _onLoadMore: function (event) {
         return this._loadMore(this.model.defaultDisplayQty);
@@ -405,7 +405,7 @@ var StatementAction = AbstractAction.extend({
      * values and notifications then open the first available line
      *
      * @private
-     * @param {OdooEvent} event
+     * @param {ColossalEvent} event
      */
     _onValidate: function (event) {
         var self = this;
@@ -467,7 +467,7 @@ var ManualAction = StatementAction.extend({
      * first available line
      *
      * @private
-     * @param {OdooEvent} event
+     * @param {ColossalEvent} event
      */
     _onValidate: function (event) {
         var self = this;

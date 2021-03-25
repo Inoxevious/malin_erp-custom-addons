@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
 
 <template id="assets_snippet_s_mini_nav_bar_css_000" inherit_id="website.assets_frontend" active="False">
     <xpath expr="//link[last()]" position="after">
@@ -13,4 +13,4 @@
     </xpath>
 </template>
 
-</odoo>
+</colossal>

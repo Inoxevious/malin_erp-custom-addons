@@ -1,4 +1,4 @@
-odoo.define('base_accounting_kit.ReconciliationRenderer', function (require) {
+colossal.define('base_accounting_kit.ReconciliationRenderer', function (require) {
 "use strict";
 
 var Widget = require('web.Widget');
@@ -688,7 +688,7 @@ var LineRenderer = Widget.extend(FieldManagerMixin, {
     },
     /**
      * @private
-     * @param {OdooEvent} event
+     * @param {ColossalEvent} event
      */
     _onFieldChanged: function (event) {
         event.stopPropagation();

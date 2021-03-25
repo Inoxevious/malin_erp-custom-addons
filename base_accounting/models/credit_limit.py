@@ -20,9 +20,9 @@
 #
 #############################################################################
 
-from odoo import models, fields, api
-from odoo.exceptions import UserError
-from odoo.tools.translate import _
+from colossal import models, fields, api
+from colossal.exceptions import UserError
+from colossal.tools.translate import _
 
 
 class ResPartner(models.Model):

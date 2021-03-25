@@ -25,10 +25,10 @@ from datetime import date, datetime
 
 from dateutil.relativedelta import relativedelta
 
-from odoo import api, fields, models, _
-from odoo.exceptions import UserError, ValidationError
-from odoo.tools import DEFAULT_SERVER_DATE_FORMAT as DF
-from odoo.tools import float_compare, float_is_zero
+from colossal import api, fields, models, _
+from colossal.exceptions import UserError, ValidationError
+from colossal.tools import DEFAULT_SERVER_DATE_FORMAT as DF
+from colossal.tools import float_compare, float_is_zero
 
 
 class AccountAssetCategory(models.Model):

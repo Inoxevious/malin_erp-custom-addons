@@ -9,7 +9,7 @@
     "category": "Website",
     "website": "https://github.com/OCA/web",
     "author": "LasLabs, Tecnativa, Alexandre Díaz, "
-              "Odoo Community Association (OCA)",
+              "Colossal Community Association (OCA)",
     "license": "LGPL-3",
     "installable": True,
     "depends": [

@@ -21,7 +21,7 @@
 #############################################################################
 import re
 
-from odoo import api, models, fields
+from colossal import api, models, fields
 
 
 class FinancialReport(models.TransientModel):

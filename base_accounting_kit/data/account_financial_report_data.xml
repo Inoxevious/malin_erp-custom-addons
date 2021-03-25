@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <data noupdate="1">
         <!-- Financial Reports -->
         <record id="account_financial_report_profitandloss0"
@@ -84,4 +84,4 @@
         </record>
 
     </data>
-</odoo>
+</colossal>

@@ -1,4 +1,4 @@
-from odoo import models
+from colossal import models
 
 
 class ThemeCommon(models.AbstractModel):

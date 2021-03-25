@@ -3,8 +3,8 @@
 
 from datetime import datetime, timedelta
 
-from odoo.tests import Form
-from odoo.tests.common import SavepointCase
+from colossal.tests import Form
+from colossal.tests.common import SavepointCase
 
 
 class TestMrpMultiLevelCommon(SavepointCase):

@@ -1,4 +1,4 @@
-odoo.define("theme_common.s_showcase_slider_frontend", function (require) {
+colossal.define("theme_common.s_showcase_slider_frontend", function (require) {
     "use strict";
 
     const dom = require('web.dom');

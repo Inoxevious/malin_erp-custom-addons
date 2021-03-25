@@ -1,4 +1,4 @@
-<odoo>
+<colossal>
     <template id="theme_contactus" inherit_id="website.contactus" name="Contact Us">
         <xpath expr="//div[hasclass('container')]/div[@class='row']" position="attributes">
             <attribute name="class">row align-items-center pb-5</attribute>
@@ -163,4 +163,4 @@
 
         </xpath>
     </template>
-</odoo>
+</colossal>

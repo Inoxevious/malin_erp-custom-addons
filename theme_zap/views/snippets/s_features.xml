@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <template id="s_features" inherit_id="website.s_features">
         <!-- Section -->
         <xpath expr="//section" position="attributes">
@@ -42,4 +42,4 @@
             <p>All our data centers are emission-free.</p>
         </xpath>
     </template>
-</odoo>
+</colossal>

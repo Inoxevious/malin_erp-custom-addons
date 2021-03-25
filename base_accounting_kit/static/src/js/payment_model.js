@@ -1,4 +1,4 @@
-odoo.define('base_accounting_kit.ReconciliationModel', function (require) {
+colossal.define('base_accounting_kit.ReconciliationModel', function (require) {
 "use strict";
 
 var BasicModel = require('web.BasicModel');

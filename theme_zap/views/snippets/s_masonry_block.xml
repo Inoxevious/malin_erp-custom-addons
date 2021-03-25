@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <template id="s_masonry_block" inherit_id="website.s_masonry_block">
         <!-- Block #01 -->
         <xpath expr="//div[hasclass('col-lg-6')][2]//div[hasclass('col-lg-6')]/*" position="before">
@@ -28,4 +28,4 @@
             <i class="fa fa-rocket fa-1x text-primary rounded shadow-sm mx-auto mb-3"/>
         </xpath>
     </template>
-</odoo>
+</colossal>

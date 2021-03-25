@@ -23,8 +23,8 @@ from datetime import datetime, date
 
 from dateutil.relativedelta import relativedelta
 
-from odoo import models, fields, api, _
-from odoo.exceptions import UserError
+from colossal import models, fields, api, _
+from colossal.exceptions import UserError
 
 
 class FilterRecurringEntries(models.Model):

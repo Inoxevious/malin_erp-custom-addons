@@ -22,8 +22,8 @@
 import time
 from datetime import timedelta, datetime
 
-from odoo import models, api, _
-from odoo.exceptions import UserError
+from colossal import models, api, _
+from colossal.exceptions import UserError
 
 
 class DayBookPdfReport(models.AbstractModel):

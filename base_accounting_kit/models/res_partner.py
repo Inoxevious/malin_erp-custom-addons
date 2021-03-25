@@ -22,7 +22,7 @@
 
 from datetime import date, timedelta
 
-from odoo import fields, models
+from colossal import fields, models
 
 
 class ResPartner(models.Model):

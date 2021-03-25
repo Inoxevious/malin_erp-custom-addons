@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
 
 <template id="_assets_snippet_s_event_list_css_000_variables" inherit_id="website._assets_primary_variables" active="False">
     <xpath expr="//link[last()]" position="after">
@@ -13,4 +13,4 @@
     </xpath>
 </template>
 
-</odoo>
+</colossal>

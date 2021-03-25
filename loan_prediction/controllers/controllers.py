@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# from odoo import http
+# from colossal import http
 
 
 # class LoanPrediction(http.Controller):

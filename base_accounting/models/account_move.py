@@ -24,10 +24,10 @@ from datetime import datetime
 
 from dateutil.relativedelta import relativedelta
 
-from odoo import api, fields, models, _
-from odoo.addons.base.models import decimal_precision as dp
-from odoo.exceptions import UserError
-from odoo.tools import DEFAULT_SERVER_DATE_FORMAT as DF
+from colossal import api, fields, models, _
+from colossal.addons.base.models import decimal_precision as dp
+from colossal.exceptions import UserError
+from colossal.tools import DEFAULT_SERVER_DATE_FORMAT as DF
 
 
 class AccountMove(models.Model):

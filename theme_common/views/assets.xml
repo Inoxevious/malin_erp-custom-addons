@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <template id="_assets_utils" inherit_id="web._assets_utils">
         <xpath expr="//link[last()]" position="after">
             <link rel="stylesheet" type="text/scss" href="/theme_common/static/src/scss/mixins.scss"/>
@@ -46,4 +46,4 @@
             <link rel="stylesheet" type="text/scss" href="/theme_common/static/src/scss/compatibility-saas-11.4.scss"/>
         </xpath>
     </template>
-</odoo>
+</colossal>

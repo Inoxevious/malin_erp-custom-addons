@@ -1,8 +1,8 @@
 # Copyright 2018-19 ForgeFlow S.L. (https://www.forgeflow.com)
 # License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl.html).
 
-from odoo import _, api, fields, models
-from odoo.exceptions import UserError, ValidationError
+from colossal import _, api, fields, models
+from colossal.exceptions import UserError, ValidationError
 
 
 class MrpInventoryProcure(models.TransientModel):

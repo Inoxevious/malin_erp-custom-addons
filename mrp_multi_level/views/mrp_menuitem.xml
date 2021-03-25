@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<odoo>
+<colossal>
     <menuitem name="MRP" id="menu_mrp_mrp" parent="mrp.menu_mrp_root" sequence="22" />
     <menuitem
         name="MRP Areas"
@@ -30,4 +30,4 @@
         groups="mrp_multi_level.group_mrp_multi_level_run"
         sequence="40"
     />
-</odoo>
+</colossal>

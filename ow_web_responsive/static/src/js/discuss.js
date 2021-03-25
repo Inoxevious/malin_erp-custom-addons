@@ -1,8 +1,8 @@
-/* Copyright Odoo S.A.
+/* Copyright Colossal S.A.
  * Ported to 13.0 by Copyright 2020 Tecnativa - Alexandre Díaz
  * License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl). */
 
-odoo.define("web_responsive.Discuss", function (require) {
+colossal.define("web_responsive.Discuss", function (require) {
     "use strict";
 
     const config = require("web.config");

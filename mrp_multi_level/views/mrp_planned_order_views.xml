@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- Copyright 2019-20 ForgeFlow S.L. (https://www.forgeflow.com)
      Part of ForgeFlow. See LICENSE file for full copyright and licensing details. -->
-<odoo>
+<colossal>
     <record id="mrp_planned_order_view_tree" model="ir.ui.view">
         <field name="name">mrp.planned.order.tree</field>
         <field name="model">mrp.planned.order</field>
@@ -122,4 +122,4 @@
         <field name="target">new</field>
         <field name="binding_model_id" ref="mrp_multi_level.model_mrp_planned_order" />
     </record>
-</odoo>
+</colossal>

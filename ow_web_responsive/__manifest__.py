@@ -9,7 +9,7 @@
     "version": "14.0.1.0.0",
     "category": "Hidden",
     "website": "https://github.com/OCA/web",
-    "author": "LasLabs, Tecnativa, " "Odoo Community Association (OCA)",
+    "author": "LasLabs, Tecnativa, " "Colossal Community Association (OCA)",
     "license": "LGPL-3",
     "installable": True,
     "depends": ["web", "mail"],

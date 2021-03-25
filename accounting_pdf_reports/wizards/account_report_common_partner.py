@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from odoo import fields, models
+from colossal import fields, models
 
 
 class AccountingCommonPartnerReport(models.TransientModel):

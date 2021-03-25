@@ -3,7 +3,7 @@
 
 import ast
 
-from odoo import fields, models
+from colossal import fields, models
 
 
 class ProductTemplate(models.Model):

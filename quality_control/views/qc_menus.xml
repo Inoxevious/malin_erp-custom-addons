@@ -5,7 +5,7 @@
     Copyright 2017 Eficent Business and IT Consulting Services S.L.
     Copyright 2017 Simone Rubino - Agile Business Group
     License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl). -->
-<odoo>
+<colossal>
 
     <menuitem name="Quality control"
               id="qc_menu"
@@ -31,4 +31,4 @@
               parent="qc_menu"
               sequence="100"/>
 
-</odoo>
+</colossal>

@@ -1,4 +1,4 @@
-odoo.define("theme_zap.tour.zap", function (require) {
+colossal.define("theme_zap.tour.zap", function (require) {
 "use strict";
 
 const wTourUtils = require("website.tour_utils");

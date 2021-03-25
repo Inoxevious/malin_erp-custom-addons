@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
 
 
     <template id="header_1" inherit_id="website.layout" active="True" name="Header 1">
@@ -224,4 +224,4 @@
     </template>
 
 
-</odoo>
+</colossal>

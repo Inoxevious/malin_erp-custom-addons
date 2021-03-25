@@ -4,7 +4,7 @@
 
 import ast
 
-from odoo import fields, models
+from colossal import fields, models
 
 
 class Product(models.Model):

@@ -1,4 +1,4 @@
-odoo.define('website_animate.o_animate_editor', function (require) {
+colossal.define('website_animate.o_animate_editor', function (require) {
 'use strict';
 
 var sOptions = require('web_editor.snippets.options');

@@ -8,7 +8,7 @@ Quality control
    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 .. |badge1| image:: https://img.shields.io/badge/maturity-Beta-yellow.png
-    :target: https://odoo-community.org/page/development-status
+    :target: https://colossal-community.org/page/development-status
     :alt: Beta
 .. |badge2| image:: https://img.shields.io/badge/licence-AGPL--3-blue.png
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
@@ -17,10 +17,10 @@ Quality control
     :target: https://github.com/OCA/manufacture/tree/12.0/quality_control
     :alt: OCA/manufacture
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/manufacture-12-0/manufacture-12-0-quality_control
+    :target: https://translation.colossal-community.org/projects/manufacture-12-0/manufacture-12-0-quality_control
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/129/12.0
+    :target: https://runbot.colossal-community.org/runbot/129/12.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -70,9 +70,9 @@ Based on the nan_quality_control_* modules from NaN·tic.
 Usage
 =====
 
-.. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
+.. image:: https://colossal-community.org/website/image/ir.attachment/5784_f2813bd/datas
    :alt: Try me on Runbot
-   :target: https://runbot.odoo-community.org/runbot/129/12.0
+   :target: https://runbot.colossal-community.org/runbot/129/12.0
 
 Known issues / Roadmap
 ======================
@@ -95,7 +95,7 @@ Credits
 Authors
 ~~~~~~~
 
-* OdooMRP team
+* ColossalMRP team
 
 Contributors
 ~~~~~~~~~~~~
@@ -113,14 +113,14 @@ Maintainers
 
 This module is maintained by the OCA.
 
-.. image:: https://odoo-community.org/logo.png
-   :alt: Odoo Community Association
-   :target: https://odoo-community.org
+.. image:: https://colossal-community.org/logo.png
+   :alt: Colossal Community Association
+   :target: https://colossal-community.org
 
-OCA, or the Odoo Community Association, is a nonprofit organization whose
-mission is to support the collaborative development of Odoo features and
+OCA, or the Colossal Community Association, is a nonprofit organization whose
+mission is to support the collaborative development of Colossal features and
 promote its widespread use.
 
 This module is part of the `OCA/manufacture <https://github.com/OCA/manufacture/tree/12.0/quality_control>`_ project on GitHub.
 
-You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.
+You are welcome to contribute. To learn how please visit https://colossal-community.org/page/Contribute.

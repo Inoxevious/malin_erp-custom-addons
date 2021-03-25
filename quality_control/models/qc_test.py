@@ -5,8 +5,8 @@
 # Copyright 2017 Simone Rubino - Agile Business Group
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 
-from odoo import api, exceptions, fields, models, _
-import odoo.addons.decimal_precision as dp
+from colossal import api, exceptions, fields, models, _
+import colossal.addons.decimal_precision as dp
 
 
 class QcTest(models.Model):

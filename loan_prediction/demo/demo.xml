@@ -1,4 +1,4 @@
-<odoo>
+<colossal>
     <data>
 
           <record id="loan0" model="loan_prediction.loan_prediction">
@@ -69,4 +69,4 @@
           </record>
 
     </data>
-</odoo>
+</colossal>

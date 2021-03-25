@@ -5,7 +5,7 @@
     Copyright 2017 Eficent Business and IT Consulting Services S.L.
     Copyright 2017 Simone Rubino - Agile Business Group
     License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl). -->
-<odoo>
+<colossal>
     <data noupdate="1">
         <record id="qc_test_template_category_generic" model="qc.test.category">
             <field name="name">Generic</field>
@@ -29,4 +29,4 @@
             <field name="padding">6</field>
         </record>
     </data>
-</odoo>
+</colossal>

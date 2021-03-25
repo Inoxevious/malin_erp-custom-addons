@@ -1,4 +1,4 @@
-<odoo>
+<colossal>
     <data>
 <!--
           <record id="object0" model="school.school">
@@ -27,4 +27,4 @@
           </record>
 -->
     </data>
-</odoo>
+</colossal>

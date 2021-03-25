@@ -20,7 +20,7 @@
 #
 #############################################################################
 
-from odoo import fields, models
+from colossal import fields, models
 
 
 class AccountPrintJournal(models.TransientModel):

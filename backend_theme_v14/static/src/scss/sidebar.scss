@@ -3,10 +3,10 @@
 
 /* App Sidebar Panel */
 
-$odoo-sidebar-width: 180px;
+$colossal-sidebar-width: 180px;
 
 .app-sidebar-panel {
-	flex: 0 0 $odoo-sidebar-width;	
+	flex: 0 0 $colossal-sidebar-width;	
     background-color: $gray-base;
     height: calc(100% - 46px) !important;
     //height: 100% !important;
@@ -23,7 +23,7 @@ $odoo-sidebar-width: 180px;
 } */
 
 //.app-sidebar-panel:hover {
-//    @include o-flex(0, 0, $odoo-sidebar-width);
+//    @include o-flex(0, 0, $colossal-sidebar-width);
 //}
 
 .app-sidebar {

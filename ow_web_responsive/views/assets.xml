@@ -4,7 +4,7 @@
     @author Dave Lasley <dave@laslabs.com>
     License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
 -->
-<odoo>
+<colossal>
     <template
         id="assets_backend"
         name="Open Mobile Assets"
@@ -25,4 +25,4 @@
             />
         </xpath>
     </template>
-</odoo>
+</colossal>

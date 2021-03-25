@@ -7,7 +7,7 @@
     "version": "13.0.1.5.0",
     "development_status": "Production/Stable",
     "license": "LGPL-3",
-    "author": "Ucamco, ForgeFlow, Odoo Community Association (OCA)",
+    "author": "Ucamco, ForgeFlow, Colossal Community Association (OCA)",
     "maintainers": ["JordiBForgeFlow", "LoisRForgeFlow"],
     "summary": "Adds an MRP Scheduler",
     "website": "https://github.com/OCA/manufacture",

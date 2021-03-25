@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <template id="s_banner" inherit_id="website.s_banner">
         <!-- Section -->
         <xpath expr="//section" position="attributes">
@@ -22,4 +22,4 @@
             <a href="#" class="btn btn-primary mb-2">Our Solutions</a>
         </xpath>
     </template>
-</odoo>
+</colossal>

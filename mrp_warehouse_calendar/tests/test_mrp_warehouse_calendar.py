@@ -1,8 +1,8 @@
 # Copyright 2018-19 ForgeFlow S.L. (https://www.forgeflow.com)
 # License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl.html).
 
-from odoo import fields
-from odoo.tests.common import TransactionCase
+from colossal import fields
+from colossal.tests.common import TransactionCase
 
 
 class TestMrpWarehouseCalendar(TransactionCase):

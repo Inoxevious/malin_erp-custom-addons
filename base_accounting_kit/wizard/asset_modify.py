@@ -22,8 +22,8 @@
 
 from lxml import etree
 
-from odoo import api, fields, models, _
-from odoo.addons.base.models.ir_ui_view import (
+from colossal import api, fields, models, _
+from colossal.addons.base.models.ir_ui_view import (
 transfer_field_to_modifiers, transfer_node_to_modifiers, transfer_modifiers_to_node,
 )
 

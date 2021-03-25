@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
 
     <record model="ir.ui.view" id="account_update_lock_date_form_view">
         <field name="name">account.lock.date.form</field>
@@ -33,4 +33,4 @@
               parent="account.menu_finance_entries_actions"
               groups="account.group_account_manager"/>
 
-</odoo>
+</colossal>

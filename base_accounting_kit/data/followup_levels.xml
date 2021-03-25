@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <data noupdate="0">
         <record model="followup.line" id="followup_line_id" >
             <field name="name">Reminder</field>
@@ -9,4 +9,4 @@
             <field name="followup_line_ids" eval="[(6,0,[ref('followup_line_id')])]"/>
         </record>
     </data>
-</odoo>
+</colossal>

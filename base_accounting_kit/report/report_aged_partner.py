@@ -25,9 +25,9 @@ from datetime import datetime
 
 from dateutil.relativedelta import relativedelta
 
-from odoo import api, models, _
-from odoo.exceptions import UserError
-from odoo.tools import float_is_zero
+from colossal import api, models, _
+from colossal.exceptions import UserError
+from colossal.tools import float_is_zero
 
 
 class ReportAgedPartnerBalance(models.AbstractModel):

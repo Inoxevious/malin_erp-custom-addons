@@ -3,7 +3,7 @@
     Copyright 2018 Alexandre Díaz
     License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
 -->
-<odoo>
+<colossal>
     <template
         id="webclient_bootstrap"
         inherit_id="web.webclient_bootstrap"
@@ -29,4 +29,4 @@
             />
         </xpath>
     </template>
-</odoo>
+</colossal>

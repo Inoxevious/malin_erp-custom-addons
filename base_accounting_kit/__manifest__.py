@@ -21,7 +21,7 @@
 #############################################################################
 
 {
-    'name': 'Odoo 14 Full Accounting Kit',
+    'name': 'Colossal 14 Full Accounting Kit',
     'version': '14.0.2.6.5',
     'category': 'Accounting',
     'live_test_url': 'https://www.youtube.com/watch?v=peAp2Tx_XIs',
@@ -30,21 +30,21 @@
                  Credit Limit, Follow Ups, 
                  Day-Bank-Cash book reports.""",
     'description': """
-                    Odoo 14 Accounting,Accounting Reports, Odoo 14 Accounting 
+                    Colossal 14 Accounting,Accounting Reports, Colossal 14 Accounting 
                     PDF Reports, Asset Management, Budget Management, 
                     Customer Credit Limit, Recurring Payment,
                     PDC Management, Customer Follow-up,
-                    Lock Dates into Odoo 14 Community Edition, 
-                    Odoo Accounting,Odoo 14 Accounting Reports,Odoo 14,, 
+                    Lock Dates into Colossal 14 Community Edition, 
+                    Colossal Accounting,Colossal 14 Accounting Reports,Colossal 14,, 
                     Full Accounting, Complete Accounting, 
-                    Odoo Community Accounting, Accounting for odoo 14, 
+                    Colossal Community Accounting, Accounting for colossal 14, 
                     Full Accounting Package, 
-                    Financial Reports, Financial Report for Odoo 14,
+                    Financial Reports, Financial Report for Colossal 14,
                     Reconciliation Widget,
-                    Reconciliation Widget For Odoo14,
+                    Reconciliation Widget For Colossal14,
                     Payments Matching
                     """,
-    'author': ' Odoo SA,Cybrosys Techno Solutions',
+    'author': ' Colossal SA,Cybrosys Techno Solutions',
     'website': "https://www.cybrosys.com",
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

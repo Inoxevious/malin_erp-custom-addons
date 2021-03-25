@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Colossal Server.
 # This file contains the translation of the following modules:
 # * theme_common
 # 
@@ -11,18 +11,18 @@
 # Martin Trigaux, 2019
 # Frédéric LIETART <stuff@tifred.fr>, 2019
 # Vincent Hammadache <vhammadache@gmail.com>, 2019
-# Melanie Bernard <mbe@odoo.com>, 2019
-# Eloïse Stilmant <est@odoo.com>, 2019
-# Nathan Grognet <ngr@odoo.com>, 2019
+# Melanie Bernard <mbe@colossal.com>, 2019
+# Eloïse Stilmant <est@colossal.com>, 2019
+# Nathan Grognet <ngr@colossal.com>, 2019
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 12.0\n"
+"Project-Id-Version: Colossal Server 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-24 09:00+0000\n"
 "PO-Revision-Date: 2019-04-24 11:21+0000\n"
-"Last-Translator: Nathan Grognet <ngr@odoo.com>, 2019\n"
-"Language-Team: French (https://www.transifex.com/odoo/teams/41243/fr/)\n"
+"Last-Translator: Nathan Grognet <ngr@colossal.com>, 2019\n"
+"Language-Team: French (https://www.transifex.com/colossal/teams/41243/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -637,7 +637,7 @@ msgstr ""
 
 #. module: theme_common
 #: model_terms:theme.ir.ui.view,arch:theme_common.s_profile
-msgid "<strong>COMPANY: </strong> Odoo"
+msgid "<strong>COMPANY: </strong> Colossal"
 msgstr ""
 
 #. module: theme_common
@@ -705,7 +705,7 @@ msgstr ""
 
 #. module: theme_common
 #: model_terms:theme.ir.ui.view,arch:theme_common.s_big_image_parallax
-msgid "A Business Theme For Odoo CMS"
+msgid "A Business Theme For Colossal CMS"
 msgstr ""
 
 #. module: theme_common

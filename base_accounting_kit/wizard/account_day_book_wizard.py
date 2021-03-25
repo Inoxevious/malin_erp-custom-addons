@@ -21,7 +21,7 @@
 #############################################################################
 from datetime import date
 
-from odoo import models, fields
+from colossal import models, fields
 
 
 class DayBookWizard(models.TransientModel):

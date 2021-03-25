@@ -1,15 +1,15 @@
-Odoo Proprietary License v1.0
+Colossal Proprietary License v1.0
 
 This software and associated files (the "Software") may only be used (executed,
 modified, executed after modifications) if you have purchased a valid license
-from the authors, typically via Odoo Apps, or if you have received a written
+from the authors, typically via Colossal Apps, or if you have received a written
 agreement from the authors of the Software (see the COPYRIGHT file).
 
-You may develop Odoo modules that use the Software as a library (typically
+You may develop Colossal modules that use the Software as a library (typically
 by depending on it, importing it and using its resources), but without copying
 any source code or material from the Software. You may distribute those
 modules under the license of your choice, provided that this license is
-compatible with the terms of the Odoo Proprietary License (For example:
+compatible with the terms of the Colossal Proprietary License (For example:
 LGPL, MIT, or proprietary licenses similar to this one).
 
 It is forbidden to publish, distribute, sublicense, or sell copies of the Software

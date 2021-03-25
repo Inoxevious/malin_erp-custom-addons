@@ -1,16 +1,16 @@
 Accounting Kit
 ==============
-* Full accounting kit for Odoo 14 community editions
+* Full accounting kit for Colossal 14 community editions
 
 Installation
 ============
-	- www.odoo.com/documentation/14.0/setup/install.html
+	- www.colossal.com/documentation/14.0/setup/install.html
 	- Install our custom addon
 
 License
 -------
 General Public License, Version 3 (LGPL v3).
-(https://www.odoo.com/documentation/user/13.0/legal/licenses/licenses.html)
+(https://www.colossal.com/documentation/user/13.0/legal/licenses/licenses.html)
 
 Company
 -------
@@ -27,7 +27,7 @@ Credits
 
 Contacts
 --------
-* Mail Contact : odoo@cybrosys.com
+* Mail Contact : colossal@cybrosys.com
 
 Bug Tracker
 -----------

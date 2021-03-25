@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- Copyright 2018 2018-19 ForgeFlow S.L. (https://www.forgeflow.com)
      License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl.html). -->
-<odoo>
+<colossal>
     <record id="view_warehouse" model="ir.ui.view">
         <field name="name">stock.warehouse</field>
         <field name="model">stock.warehouse</field>
@@ -12,4 +12,4 @@
             </field>
         </field>
     </record>
-</odoo>
+</colossal>

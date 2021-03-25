@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <!-- Those are independant from the user palette and act as default for it -->
     <!-- Compatibility: Thoses templates are kept for now even though the -->
     <!-- enabled palettes are now handled through a scss customization -->
@@ -43,4 +43,4 @@
             <link rel="stylesheet" type="text/scss" href="/theme_common/static/src/scss/options/colors/option_colors_09_variables.scss"/>
         </xpath>
     </template>
-</odoo>
+</colossal>

@@ -7,7 +7,7 @@
         Define EDI Configuration for Account Moves""",
     "version": "13.0.1.0.1",
     "license": "AGPL-3",
-    "author": "Creu Blanca,Odoo Community Association (OCA)",
+    "author": "Creu Blanca,Colossal Community Association (OCA)",
     "website": "https://github.com/OCA/edi",
     "depends": ["account", "edi", "component_event"],
     "data": [

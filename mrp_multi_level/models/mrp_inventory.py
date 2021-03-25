@@ -6,7 +6,7 @@
 
 from datetime import date, timedelta
 
-from odoo import api, fields, models
+from colossal import api, fields, models
 
 
 class MrpInventory(models.Model):

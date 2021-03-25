@@ -21,8 +21,8 @@
 #############################################################################
 from datetime import time
 
-from odoo import models, api, _
-from odoo.exceptions import UserError
+from colossal import models, api, _
+from colossal.exceptions import UserError
 
 
 class ReportBankBook(models.AbstractModel):

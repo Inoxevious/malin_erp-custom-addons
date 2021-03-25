@@ -20,7 +20,7 @@
 #
 #############################################################################
 
-from odoo import api, fields, models, _
+from colossal import api, fields, models, _
 
 
 class AssetDepreciationConfirmationWizard(models.TransientModel):

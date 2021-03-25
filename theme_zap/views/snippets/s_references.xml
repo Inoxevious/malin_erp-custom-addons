@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <template id="s_references" inherit_id="website.s_references">
         <!-- Section -->
         <xpath expr="//section" position="attributes">
@@ -38,4 +38,4 @@
             <attribute name="class" add="rounded bg-white shadow-sm pt48 pb48" remove="" separator=" "/>
         </xpath>
     </template>
-</odoo>
+</colossal>

@@ -5,7 +5,7 @@
     'summary': 'Marketing, Copywriting, Media, Events, Non Profit, NGO, Corporate, Business, Services',
     'sequence': 160,
     'version': '2.0.0',
-    'author': 'Odoo S.A.',
+    'author': 'Colossal S.A.',
     'depends': ['theme_common'],
     'data': [
         'views/assets.xml',
@@ -23,5 +23,5 @@
         'static/description/zap_screenshot.jpg',
     ],
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-zap.odoo.com'
+    'live_test_url': 'https://theme-zap.colossal.com'
 }

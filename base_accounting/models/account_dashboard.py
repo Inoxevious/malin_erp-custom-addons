@@ -6,8 +6,8 @@ from datetime import datetime
 
 from dateutil.relativedelta import relativedelta
 
-from odoo import models, api
-from odoo.http import request
+from colossal import models, api
+from colossal.http import request
 
 
 class DashBoard(models.Model):

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<odoo>
+<colossal>
     <data>
 
         <!--Recurring Templates Form view-->
@@ -96,4 +96,4 @@
         <menuitem id="account_recurring_payments_child1" name="Recurring Templates" groups="account.group_account_user"
                   action="action_account_recurring_payments_view" parent="account.root_payment_menu"/>
     </data>
-</odoo>
+</colossal>

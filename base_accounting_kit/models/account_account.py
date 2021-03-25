@@ -21,8 +21,8 @@
 #############################################################################
 
 import time
-from odoo import api, models, fields, _
-from odoo.exceptions import UserError
+from colossal import api, models, fields, _
+from colossal.exceptions import UserError
 
 
 class CashFlow(models.Model):

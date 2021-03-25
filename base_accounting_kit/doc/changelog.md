@@ -3,7 +3,7 @@
 #### 03.10.2020
 #### Version 14.0.1.0.0
 #### ADD
-- Initial commit for Odoo 14 accounting
+- Initial commit for Colossal 14 accounting
 
 #### 13.10.2020
 #### Version 14.0.1.1.1

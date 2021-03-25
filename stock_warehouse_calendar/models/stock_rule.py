@@ -3,7 +3,7 @@
 
 from datetime import datetime
 
-from odoo import models
+from colossal import models
 
 
 class StockRule(models.Model):

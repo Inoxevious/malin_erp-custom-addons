@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<odoo>
+<colossal>
     <data>
         <record id="view_account_followup_followup_line_tree" model="ir.ui.view">
             <field name="name">followup.line.tree</field>
@@ -110,4 +110,4 @@
                   groups="account.group_account_manager" sequence="2"/>
 
     </data>
-</odoo>
+</colossal>

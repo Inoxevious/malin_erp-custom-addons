@@ -20,7 +20,7 @@
 #
 #############################################################################
 
-from odoo import models
+from colossal import models
 
 
 class AccountTaxReport(models.TransientModel):

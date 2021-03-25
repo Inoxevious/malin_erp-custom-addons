@@ -21,8 +21,8 @@
 #############################################################################
 from datetime import date
 
-from odoo import models, fields, api, _
-from odoo.exceptions import UserError
+from colossal import models, fields, api, _
+from colossal.exceptions import UserError
 
 
 class CashBookWizard(models.TransientModel):

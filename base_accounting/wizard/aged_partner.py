@@ -24,8 +24,8 @@ import time
 
 from dateutil.relativedelta import relativedelta
 
-from odoo import fields, models, _
-from odoo.exceptions import UserError
+from colossal import fields, models, _
+from colossal.exceptions import UserError
 
 
 class AccountAgedTrialBalance(models.TransientModel):

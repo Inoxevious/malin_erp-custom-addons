@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <record id="cash_flow_report_view" model="ir.ui.view">
         <field name="name">Cash Flow Statement</field>
         <field name="model">cash.flow.report</field>
@@ -50,4 +50,4 @@
               action="action_cash_flow_report"
               parent="base_accounting_kit.account_reports_generic_statements"/>
 
-</odoo>
+</colossal>

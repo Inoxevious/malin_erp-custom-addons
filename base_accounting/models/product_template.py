@@ -20,7 +20,7 @@
 #
 #############################################################################
 
-from odoo import api, fields, models
+from colossal import api, fields, models
 
 
 class ProductTemplate(models.Model):

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <template id="s_quotes_carousel" inherit_id="website.s_quotes_carousel">
         <!-- Quote 1 -->
         <xpath expr="(//div[hasclass('s_blockquote_content')])[1]/p" position="replace">
@@ -14,4 +14,4 @@
             <p>A small shop with a very large selection of roses. Nice prices and above all a very professional and friendly welcome.</p>
         </xpath>
     </template>
-</odoo>
+</colossal>

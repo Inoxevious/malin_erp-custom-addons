@@ -5,8 +5,8 @@
 # Copyright 2017 Simone Rubino - Agile Business Group
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 
-from odoo.tests.common import TransactionCase
-from odoo import exceptions
+from colossal.tests.common import TransactionCase
+from colossal import exceptions
 from ..models.qc_trigger_line import\
     _filter_trigger_lines
 

@@ -39,7 +39,7 @@ Features for computers:
 
 * Keyboard shortcuts for easier navigation, **using ``Alt + Shift + [key]``**
   combination instead of just ``Alt + [key]``.
-  See https://github.com/odoo/odoo/issues/30068 to understand why.
+  See https://github.com/colossal/colossal/issues/30068 to understand why.
 
   .. image:: https://user-images.githubusercontent.com/973709/48417578-ff341680-e74a-11e8-8881-017709e912bc.png
 

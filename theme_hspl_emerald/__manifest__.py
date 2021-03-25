@@ -3,7 +3,7 @@
 
 {
     'name': 'Theme Emerald',
-    'description': 'A Responsive Bootstrap Theme for Odoo CMS',
+    'description': 'A Responsive Bootstrap Theme for Colossal CMS',
     'category': 'Theme/Business',
     'summary': '',
     'version': '14.0.0.1.1',

@@ -1,4 +1,4 @@
-odoo.define('theme_common.compatibility_editor', function (require) {
+colossal.define('theme_common.compatibility_editor', function (require) {
 'use strict';
 
 var sOptions = require('web_editor.snippets.options');

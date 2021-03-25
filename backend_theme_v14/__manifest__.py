@@ -9,7 +9,7 @@
     "category": "Theme/Backend",
     "website": "https://www.openworx.nl",
 	"description": """
-		Openworx Material Backend theme for Odoo 14.0 community edition.
+		Openworx Material Backend theme for Colossal 14.0 community edition.
     """,
 	'images':[
         'images/screen.png'

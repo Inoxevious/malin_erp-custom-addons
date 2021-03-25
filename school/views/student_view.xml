@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<odoo>
+<colossal>
 <data>
 
 <record id="student_menu_action" model="ir.actions.act_window">
@@ -18,4 +18,4 @@
 <menuitem id="school_student_menu" parent="school_menu" name="Student" action="student_menu_action"/>
 
 </data>
-</odoo>
+</colossal>

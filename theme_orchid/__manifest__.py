@@ -5,7 +5,7 @@
     'summary': 'Gardens, Flowers, Nature, Green, Beauty, Stores',
     'sequence': 230,
     'version': '2.0.0',
-    'author': 'Odoo S.A.',
+    'author': 'Colossal S.A.',
     'depends': ['theme_common', 'website_animate'],
     'data': [
         'views/assets.xml',
@@ -23,5 +23,5 @@
         'static/description/orchid_screenshot.jpg',
     ],
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-orchid.odoo.com',
+    'live_test_url': 'https://theme-orchid.colossal.com',
 }

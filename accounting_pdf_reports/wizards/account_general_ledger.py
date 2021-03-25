@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-from odoo import fields, models, _
-from odoo.exceptions import UserError
+from colossal import fields, models, _
+from colossal.exceptions import UserError
 
 
 class AccountReportGeneralLedger(models.TransientModel):

@@ -7,7 +7,7 @@
 import logging
 from datetime import date, timedelta
 
-from odoo import _, api, exceptions, fields, models
+from colossal import _, api, exceptions, fields, models
 
 logger = logging.getLogger(__name__)
 

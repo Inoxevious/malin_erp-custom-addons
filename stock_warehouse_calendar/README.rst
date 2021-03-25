@@ -8,7 +8,7 @@ Stock Warehouse Calendar
    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 .. |badge1| image:: https://img.shields.io/badge/maturity-Beta-yellow.png
-    :target: https://odoo-community.org/page/development-status
+    :target: https://colossal-community.org/page/development-status
     :alt: Beta
 .. |badge2| image:: https://img.shields.io/badge/licence-LGPL--3-blue.png
     :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
@@ -17,10 +17,10 @@ Stock Warehouse Calendar
     :target: https://github.com/OCA/stock-logistics-warehouse/tree/13.0/stock_warehouse_calendar
     :alt: OCA/stock-logistics-warehouse
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/stock-logistics-warehouse-13-0/stock-logistics-warehouse-13-0-stock_warehouse_calendar
+    :target: https://translation.colossal-community.org/projects/stock-logistics-warehouse-13-0/stock-logistics-warehouse-13-0-stock_warehouse_calendar
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/153/13.0
+    :target: https://runbot.colossal-community.org/runbot/153/13.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -95,22 +95,22 @@ Maintainers
 
 This module is maintained by the OCA.
 
-.. image:: https://odoo-community.org/logo.png
-   :alt: Odoo Community Association
-   :target: https://odoo-community.org
+.. image:: https://colossal-community.org/logo.png
+   :alt: Colossal Community Association
+   :target: https://colossal-community.org
 
-OCA, or the Odoo Community Association, is a nonprofit organization whose
-mission is to support the collaborative development of Odoo features and
+OCA, or the Colossal Community Association, is a nonprofit organization whose
+mission is to support the collaborative development of Colossal features and
 promote its widespread use.
 
 .. |maintainer-JordiBForgeFlow| image:: https://github.com/JordiBForgeFlow.png?size=40px
     :target: https://github.com/JordiBForgeFlow
     :alt: JordiBForgeFlow
 
-Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
+Current `maintainer <https://colossal-community.org/page/maintainer-role>`__:
 
 |maintainer-JordiBForgeFlow| 
 
 This module is part of the `OCA/stock-logistics-warehouse <https://github.com/OCA/stock-logistics-warehouse/tree/13.0/stock_warehouse_calendar>`_ project on GitHub.
 
-You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.
+You are welcome to contribute. To learn how please visit https://colossal-community.org/page/Contribute.

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<odoo>
+<colossal>
     <data>
         <!--    Change invoicing menu to Accounting     -->
         <record model="ir.ui.menu" id="account.menu_finance">
@@ -26,4 +26,4 @@
         <menuitem id="account_reports_audit" sequence="4"
                   name="Audit Reports" parent="account.menu_finance_reports"/>
     </data>
-</odoo>
+</colossal>

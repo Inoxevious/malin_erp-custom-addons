@@ -19,8 +19,8 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 #############################################################################
-from odoo import api, fields, models, SUPERUSER_ID, _
-from odoo.exceptions import UserError
+from colossal import api, fields, models, SUPERUSER_ID, _
+from colossal.exceptions import UserError
 
 
 class AccountUpdateLockDate(models.TransientModel):

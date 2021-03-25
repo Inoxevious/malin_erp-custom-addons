@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <data>
         <record id="customer_statements_form_view" model="ir.ui.view">
             <field name="name">customer.statements.followup</field>
@@ -13,7 +13,7 @@
                          style="font-size: 15px;display: inline-block; margin-top:10px;margin-left: 201px;">
                         <span>Wonder how to Send Followup mails and Print Followup Reports ? Download our
                             <a target="_blank"
-                               href="https://apps.odoo.com/apps/modules/14.0/customer_followup_community">
+                               href="https://apps.colossal.com/apps/modules/14.0/customer_followup_community">
                                 <b>Customer Followup</b>
                             </a>
                             Module !
@@ -126,4 +126,4 @@
                   groups="account.group_account_user"/>
 
     </data>
-</odoo>
+</colossal>

@@ -1,7 +1,7 @@
 /* Copyright 2018 Tecnativa - Jairo Llopis
  * License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl). */
 
-odoo.define('web_responsive', function (require) {
+colossal.define('web_responsive', function (require) {
     'use strict';
 
     var ActionManager = require('web.ActionManager');
@@ -450,7 +450,7 @@ odoo.define('web_responsive', function (require) {
     /**
      * Use ALT+SHIFT instead of ALT as hotkey triggerer.
      *
-     * HACK https://github.com/odoo/odoo/issues/30068 - See it to know why.
+     * HACK https://github.com/colossal/colossal/issues/30068 - See it to know why.
      *
      * Cannot patch in `KeyboardNavigationMixin` directly because it's a mixin,
      * not a `Class`, and altering a mixin's `prototype` doesn't alter it where

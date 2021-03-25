@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<odoo noupdate="1">
+<colossal noupdate="1">
     <record id="mrp_multi_level_cron" model="ir.cron">
         <field name="name">Multi Level MRP</field>
         <field name="model_id" ref="mrp_multi_level.model_mrp_multi_level" />
@@ -11,4 +11,4 @@
         <field name="state">code</field>
         <field name="code">model.run_mrp_multi_level()</field>
     </record>
-</odoo>
+</colossal>

@@ -6,9 +6,9 @@
 
 from math import ceil
 
-from odoo import _, api, fields, models
-from odoo.exceptions import ValidationError
-from odoo.osv import expression
+from colossal import _, api, fields, models
+from colossal.exceptions import ValidationError
+from colossal.osv import expression
 
 
 class ProductMRPArea(models.Model):

@@ -6,7 +6,7 @@
     License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
 -->
 
-<odoo>
+<colossal>
     <template id="app_sidebar" inherit_id="web.webclient_bootstrap" name="Apps Sidebar">
         <xpath expr="//t[@t-set='body_classname']" position="after">
             <div id="app-sidebar" class="app-sidebar-panel">
@@ -32,4 +32,4 @@
             </div>
         </xpath>
     </template>
-</odoo>
+</colossal>

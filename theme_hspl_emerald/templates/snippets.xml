@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<colossal>
     <!--===============All Snippet List================== -->
     <template id="theme_snippets" inherit_id="website.snippets">
         <xpath expr="//div[@id='snippet_structure']" position="before">
@@ -1331,4 +1331,4 @@
         </section>
 
     </template>
-</odoo>
+</colossal>

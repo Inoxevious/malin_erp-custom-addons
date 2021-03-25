@@ -1,4 +1,4 @@
-odoo.define('theme_common.preheader', function (require) {
+colossal.define('theme_common.preheader', function (require) {
 'use strict';
 
 var publicWidget = require('web.public.widget');

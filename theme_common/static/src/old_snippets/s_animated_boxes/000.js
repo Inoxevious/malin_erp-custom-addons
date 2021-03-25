@@ -1,4 +1,4 @@
-odoo.define('theme_common.s_animated_boxes_frontend', function (require) {
+colossal.define('theme_common.s_animated_boxes_frontend', function (require) {
     'use strict';
 
 var publicWidget = require('web.public.widget');

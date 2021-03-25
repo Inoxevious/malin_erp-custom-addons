@@ -19,8 +19,8 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 #############################################################################
-from odoo import models, fields, _
-from odoo.exceptions import UserError
+from colossal import models, fields, _
+from colossal.exceptions import UserError
 
 
 class AccountRegisterPayments(models.TransientModel):
