@@ -26,6 +26,8 @@ $colossal-sidebar-width: 180px;
 //    @include o-flex(0, 0, $colossal-sidebar-width);
 //}
 
+
+
 .app-sidebar {
     white-space: nowrap;
     padding: 0;
@@ -66,5 +68,5 @@ $colossal-sidebar-width: 180px;
 }
 
 .toggle-sidebar {
-    display: none;
+    display: block;
 }
